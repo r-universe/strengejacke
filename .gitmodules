@@ -33,6 +33,11 @@
 	url = https://github.com/strengejacke/sjstats
 	shallow = true
 	registered = true
+[submodule "datawizard"]
+	path = datawizard
+	url = https://github.com/easystats/datawizard
+	shallow = true
+	registered = false
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight

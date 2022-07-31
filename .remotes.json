@@ -1,5 +1,11 @@
 [
   {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["sjPlot", "parameters"],
+    "from": "sjPlot"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["sjPlot", "parameters"],
