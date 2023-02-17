@@ -8,3 +8,8 @@
 	url = https://github.com/strengejacke/ggeffects
 	shallow = true
 	registered = true
+[submodule "marginaleffects"]
+	path = marginaleffects
+	url = https://github.com/vincentarelbundock/marginaleffects
+	shallow = true
+	registered = false
