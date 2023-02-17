@@ -1,26 +1,6 @@
 [
   {
-    "package": "esc",
-    "oncran": true
-  },
-  {
     "package": "ggeffects",
-    "oncran": true
-  },
-  {
-    "package": "sjlabelled",
-    "oncran": true
-  },
-  {
-    "package": "sjmisc",
-    "oncran": true
-  },
-  {
-    "package": "sjPlot",
-    "oncran": true
-  },
-  {
-    "package": "sjstats",
     "oncran": true
   }
 ]

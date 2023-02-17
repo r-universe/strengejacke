@@ -1,35 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/strengejacke/universe
 	shallow = true
 	branch = HEAD
-[submodule "esc"]
-	path = esc
-	url = https://github.com/strengejacke/esc
-	shallow = true
-	registered = true
 [submodule "ggeffects"]
 	path = ggeffects
 	url = https://github.com/strengejacke/ggeffects
-	shallow = true
-	registered = true
-[submodule "sjlabelled"]
-	path = sjlabelled
-	url = https://github.com/strengejacke/sjlabelled
-	shallow = true
-	registered = true
-[submodule "sjmisc"]
-	path = sjmisc
-	url = https://github.com/strengejacke/sjmisc
-	shallow = true
-	registered = true
-[submodule "sjPlot"]
-	path = sjPlot
-	url = https://github.com/strengejacke/sjplot
-	shallow = true
-	registered = true
-[submodule "sjstats"]
-	path = sjstats
-	url = https://github.com/strengejacke/sjstats
 	shallow = true
 	registered = true
