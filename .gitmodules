@@ -8,8 +8,3 @@
 	url = https://github.com/strengejacke/ggeffects
 	shallow = true
 	registered = true
-[submodule "logistf"]
-	path = logistf
-	url = https://github.com/georgheinze/logistf
-	shallow = true
-	registered = false
