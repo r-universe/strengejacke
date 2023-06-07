@@ -1,5 +1,11 @@
 [
   {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["ggeffects"],
+    "from": "ggeffects"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["ggeffects"],
