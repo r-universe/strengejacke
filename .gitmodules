@@ -8,13 +8,3 @@
 	url = https://github.com/strengejacke/ggeffects
 	shallow = true
 	registered = true
-[submodule "datawizard"]
-	path = datawizard
-	url = https://github.com/easystats/datawizard
-	shallow = true
-	registered = false
-[submodule "insight"]
-	path = insight
-	url = https://github.com/easystats/insight
-	shallow = true
-	registered = false
