@@ -2,13 +2,13 @@
 	path = .registry
 	url = https://github.com/strengejacke/universe
 	branch = HEAD
-[submodule "ggeffects"]
-	path = ggeffects
-	url = https://github.com/strengejacke/ggeffects
 [submodule "datawizard"]
 	path = datawizard
 	url = https://github.com/easystats/datawizard
 	registered = false
+[submodule "ggeffects"]
+	path = ggeffects
+	url = https://github.com/strengejacke/ggeffects
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight
