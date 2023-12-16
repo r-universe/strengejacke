@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/strengejacke/universe
 	branch = HEAD
+[submodule "emmeans"]
+	path = emmeans
+	url = https://github.com/rvlenth/emmeans
+	registered = false
 [submodule "ggeffects"]
 	path = ggeffects
 	url = https://github.com/strengejacke/ggeffects

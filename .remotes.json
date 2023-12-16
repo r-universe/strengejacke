@@ -1,0 +1,8 @@
+[
+  {
+    "package": "emmeans",
+    "url": "https://github.com/rvlenth/emmeans",
+    "via": ["ggeffects"],
+    "from": "ggeffects"
+  }
+]
