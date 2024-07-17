@@ -9,7 +9,3 @@
 	path = insight
 	url = https://github.com/easystats/insight
 	registered = false
-[submodule "performance"]
-	path = performance
-	url = https://github.com/easystats/performance
-	registered = false

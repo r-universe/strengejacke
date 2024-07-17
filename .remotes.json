@@ -4,11 +4,5 @@
     "url": "https://github.com/easystats/insight",
     "via": ["ggeffects"],
     "from": "ggeffects"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["ggeffects", "insight"],
-    "from": "ggeffects"
   }
 ]
