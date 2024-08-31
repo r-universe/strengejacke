@@ -4,5 +4,11 @@
     "url": "https://github.com/easystats/insight",
     "via": ["ggeffects"],
     "from": "ggeffects"
+  },
+  {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["ggeffects"],
+    "from": "ggeffects"
   }
 ]
