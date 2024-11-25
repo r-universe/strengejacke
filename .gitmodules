@@ -5,7 +5,7 @@
 [submodule "ggeffects"]
 	path = ggeffects
 	url = https://github.com/strengejacke/ggeffects
-[submodule "insight"]
-	path = insight
-	url = https://github.com/easystats/insight
+[submodule "marginaleffects"]
+	path = marginaleffects
+	url = https://github.com/vincentarelbundock/marginaleffects
 	registered = false
