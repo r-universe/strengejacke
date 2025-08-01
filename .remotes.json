@@ -1,0 +1,14 @@
+[
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggeffects"],
+    "from": "ggeffects"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggeffects", "insight"],
+    "from": "ggeffects"
+  }
+]

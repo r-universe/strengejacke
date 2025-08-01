@@ -5,3 +5,11 @@
 [submodule "ggeffects"]
 	path = ggeffects
 	url = https://github.com/strengejacke/ggeffects
+[submodule "insight"]
+	path = insight
+	url = https://github.com/easystats/insight
+	registered = false
+[submodule "parameters"]
+	path = parameters
+	url = https://github.com/easystats/parameters
+	registered = false
